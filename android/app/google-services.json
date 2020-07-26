@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575117845998",
+    "firebase_url": "https://chatlas-a1b96.firebaseio.com",
+    "project_id": "chatlas-a1b96",
+    "storage_bucket": "chatlas-a1b96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575117845998:android:cfc75a14d1bb064b6cdaff",
+        "android_client_info": {
+          "package_name": "com.example.chatlas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575117845998-l4re3hastc9a1beu6r2v4b72v0nroe19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEfMj2M73czU1mWEm7HU80izyBXHn_VPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575117845998-l4re3hastc9a1beu6r2v4b72v0nroe19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
